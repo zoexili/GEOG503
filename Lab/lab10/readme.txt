@@ -1,0 +1,1 @@
+This tool performs raster clipping function. 

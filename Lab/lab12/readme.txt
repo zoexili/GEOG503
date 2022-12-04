@@ -1,0 +1,1 @@
+This tool creates a map book PDF based on a user-selected ArcMap Document. 
